@@ -1,0 +1,39 @@
+Hernan Andrade, Lec #1001, Lab #1008, Assignment #16
+
+NAME                                    ID#     SCORE
+Adams, Matthew                           10        15
+Black, Larry                             56        95
+Jones, Bonnie                            23       100
+Martinson, Barbara                       31        90
+Schwartz, Jennifer                       19        75
+Smith, Amy                               71        75
+
+ClASS STANDINGS
+ID#     SCORE
+ 23       100
+ 56        95
+ 31        90
+ 19        75
+ 71        75
+ 10        15
+
+# of Entrys: 6
+Class Ave: 75.00
+Median Score: 82.50
+
+BEGIN ENTRY SEARCH FILE PROCESSING
+
+Test key: abcdabcdabcdabcdabcd
+
+#23
+Name: Bonnie Jones
+Score: 100
+Answers: abcdabcdabcdabcdabcd
+
+#71
+Name: Amy Smith
+Score: 75
+Answers: dcbaabcdabcdabcdabcabbbb
+
+#54 is not valid id.
+
